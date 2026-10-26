@@ -2,7 +2,7 @@
 
 [![GitHub Roast](https://ghfind.com/api/card/yhwwwwww?theme=dark)](https://ghfind.com/u/yhwwwwww?ref=badge)
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/yhwwwwww?theme=dark&lang=zh)](https://ghfind.com/u/yhwwwwww?ref=badge)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/yhwwwwww?theme=dark&lang=zh)](https://ghfind.com/u/yhwwwwww?ref=badge) [![GitHub Roast score card](https://ghfind.com/api/card/mini/yhwwwwww?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/yhwwwwww?ref=badge)
 
 <!--
 **yhwwwwww/yhwwwwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
