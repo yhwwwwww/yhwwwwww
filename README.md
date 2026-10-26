@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Roast](https://ghfind.com/api/card/yhwwwwww?theme=dark)](https://ghfind.com/u/yhwwwwww?ref=badge)
+
 <!--
 **yhwwwwww/yhwwwwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
